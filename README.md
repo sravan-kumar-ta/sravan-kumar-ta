@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @sravan-kumar-ta
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Python-DJango
+- 👋 Hi, I’m [Sravan](https://github.com/sravan-kumar-ta)
+- :man_student: I’m interested in web development
+- :man_technologist: I’m currently learning Python-Django & Angular
+- :rocket: Stay focused and keep Pushing..:wink:
 
 <!---
 sravan-kumar-ta/sravan-kumar-ta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
