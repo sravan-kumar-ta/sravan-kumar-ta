@@ -3,9 +3,9 @@
 
 <p align="center" style="font-size: 25px">Hi 😀👋, I'm Sravan</p>
 
-<p align="center" style="font-size: 20px">A Passionate Full Stack <span style="color: #48b565">Web Developer</span></p>
+<p align="center" style="font-size: 20px">A Passionate Full Stack <font color= "#48b565">Web Developer</font></p>
 
-<p align="center" style="font-size: 20px">🚀 Stay focused and keep <span style="color: #4886b5">Push</span>ing..😉</p>
+<p align="center" style="font-size: 20px">🚀 Stay focused and keep <font color= #4886b5">Push</font>ing..😉</p>
 <hr width="200px">
 
 <img align="right" alt="Coder GIF" width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
