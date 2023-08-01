@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **sravan0095@gmail.com**
 
-- 📄 Resume 👉 [Resume](https://drive.google.com/file/d/1lid3BY2WWXN72BPo26e2dUMs4yuaTida/view?usp=sharing)
+- 📄 Resume 👉 [Resume](https://drive.google.com/file/d/1iVCgwtcMYMBxqyzeyyCHlXRJ4XXOwN86/view?usp=sharing)
 
 - ⚡ Fun fact 🤪 **I think I'm Funny**
 
