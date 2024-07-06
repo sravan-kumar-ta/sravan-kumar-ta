@@ -22,8 +22,6 @@
 
 - 📫 How to reach me **sravan0095@gmail.com**
 
-- 📄 Resume 👉 [Resume](https://drive.google.com/file/d/1iVCgwtcMYMBxqyzeyyCHlXRJ4XXOwN86/view?usp=sharing)
-
 - ⚡ Fun fact 🤪 **I think I'm Funny**
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sravan-kumar-ta&" alt="sravan-kumar-ta" /></p>
