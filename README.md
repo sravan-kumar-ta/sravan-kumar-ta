@@ -178,5 +178,10 @@
                 src="https://github.com/user-attachments/assets/87c6e106-9a07-48eb-a132-5cb41afbd86b">
             <br><b>Hostinger</b></br>
         </td>
+        <td align="center">
+            <img height="50"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+            <br><b>Docker</b></br>
+        </td>
     </tr>
 </table>
