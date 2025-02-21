@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact 🤪 **I think I'm Funny**
 
-![Top Languages Card](https://github-readme-streak-stats.herokuapp.com/?user=sravan-kumar-ta&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats-two-lake.vercel.app?user=sravan-kumar-ta&card_width=450&card_height=170)](https://git.io/streak-stats)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sravan-kumar-ta&layout=compact)
 
 ## My Tech Stack
